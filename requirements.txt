@@ -1,7 +1,7 @@
 # --- For-Bot-Working --------- #
-pyrogram==2.0.106
+git+https://github.com/kurimuzonAkuma/pyrogram@dev
 TgCrypto
-pyromod==1.5
+pyromod
 python-dotenv
 
 # --- For-Database ------------ #
@@ -10,3 +10,4 @@ dnspython
 
 # --- For-Web-Response ------- #
 aiohttp
+
